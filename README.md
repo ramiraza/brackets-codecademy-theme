@@ -1,5 +1,4 @@
 # Brackets - Codecademy Theme
-============================
 
 An inspiration and tribute to Codecademy created for Brackets.io (a popular open source text-editor) by Adobe.
 
@@ -15,5 +14,5 @@ Open up Brackets. Click on File, then "Extension Manager...". Click over to the 
 ## CSS
 ![CSS!](https://github.com/unsyllable/brackets-codecademy-theme/blob/master/screenshots/codecademy-theme-css.png)
 
-## JS
+## JavaScript
 ![JavaScript!](https://github.com/unsyllable/brackets-codecademy-theme/blob/master/screenshots/codecademy-theme-js.png)
