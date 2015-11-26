@@ -1,0 +1,15 @@
+{
+    "name": "Codecademy - Inspired Theme",
+    "title": "Codecademy Theme",
+    "description": "This is a Codecademy IDE inspired theme, which was created to pay tribute to Codecademy. ",
+    "homepage": "https://github.com/unsyllable/codecademy-theme",
+    "version": "1.0.0",
+    "author": "Ali Raza",
+    "license": "MIT",
+    "theme": {
+        "file": "theme.less",
+        "dark": true,
+        "addModeClass": false
+    },
+    "keywords": ["theme"]
+}
