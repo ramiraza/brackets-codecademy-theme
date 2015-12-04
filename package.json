@@ -1,15 +1,22 @@
 {
-    "name": "Codecademy - Inspired Theme",
-    "title": "Codecademy Theme",
-    "description": "This is a Codecademy IDE inspired theme, which was created to pay tribute to Codecademy. ",
-    "homepage": "https://github.com/unsyllable/brackets-codecademy-theme",
-    "version": "1.0.0",
-    "author": "Ali Raza <www.twitter.com/unsyllable",
+    "name": "codecademy-inspired-dark-theme",
+    "title": "Codecademy | Dark",
+    "description": "Dark and flat style theme for Brackets. Inspired by Codecademy IDE.",
+    "homepage": "https://github.com/unsyllable",
+    "version": "1.0",
+    "author": "unsyllable",
     "license": "MIT",
+     "repository": {
+        "type": "git",
+        "url": "https://github.com/unsyllable/codecademy-theme"
+    },
     "theme": {
         "file": "theme.less",
         "dark": true,
-        "addModeClass": false
+        "addModeClass": true
     },
-    "keywords": ["theme"]
+    "engines": {
+        "brackets": ">=1.0.0"
+    },
+    "keywords": ["theme", "brackets", "dark", "extension", "codecademy"]
 }
