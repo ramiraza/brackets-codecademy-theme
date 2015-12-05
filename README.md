@@ -10,6 +10,7 @@ Open up Brackets. Click on File, then "Extension Manager...". Click over to the 
 
 ## Recomennded Fonts
 Use Monaco for OSX (https://github.com/todylu/monaco.ttf)
+
 Use Droid Sans Mono for Windows (http://damieng.com/blog/2007/11/14/droid-font-family-courtesy-of-google-ascender)
 
 ## HTML
