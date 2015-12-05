@@ -19,3 +19,7 @@ Open up Brackets. Click on File, then "Extension Manager...". Click over to the 
 
 ## JavaScript
 ![JavaScript!](https://github.com/unsyllable/brackets-codecademy-theme/blob/master/screenshots/codecademy-theme-js.png)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/unsyllable/brackets-codecademy-theme/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
