@@ -9,8 +9,7 @@ Please critique how I have implemented the colors, and offer suggestions as to h
 Open up Brackets. Click on File, then "Extension Manager...". Click over to the "Themes" tab at the top of the window that opens, and search for "True Ocean". You should see this theme as the result. Click Install. Close out of that window, and then in Brackets click View, then "Themes...". Here you can change your selected theme in the "Current Theme" dropdown. Select True Ocean and you're good to go!
 
 ## Recomennded Fonts
-[Monaco](https://github.com/todylu/monaco.ttf) for OSX Users
-[Droid Sans Mono](http://damieng.com/blog/2007/11/14/droid-font-family-courtesy-of-google-ascender) for Windows Users
+[Monaco](https://github.com/todylu/monaco.ttf) for OSX Users | [Droid Sans Mono](http://damieng.com/blog/2007/11/14/droid-font-family-courtesy-of-google-ascender) for Windows Users
 
 ## HTML
 ![HTML!](https://github.com/unsyllable/brackets-codecademy-theme/blob/master/screenshots/codecademy-theme-html.png)
